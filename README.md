@@ -390,6 +390,8 @@ Depende de tus objetivos:
 
 Dado que actualmente que estoy retomando **Python para Machine Learning y Visión por Computadora**, debo **priorizar Python hasta dominarlo**. Una vez tenga una base sólida, aprender Rust puede ser una excelente inversión para desarrollar herramientas de alto rendimiento, integrar código con Python mediante extensiones o trabajar en sistemas donde el rendimiento y la seguridad sean críticos.
 
+- [Documentation](https://rust-lang.org/)
+- [Video Tutorial by MOure Dev](https://www.youtube.com/watch?v=GWprpnIG-w4)
 
 ```
 19/06/2024 - By Alexi Dg
