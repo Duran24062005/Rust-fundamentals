@@ -1,4 +1,7 @@
-# Rust Fundamentals
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Eqqrv9zVpH99X726.png" />
+    <h1>Rust Fundamentals</h1>
+</div>
 
 ## ¿Qué es Rust?
 
