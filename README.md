@@ -396,3 +396,4 @@ Dado que actualmente que estoy retomando **Python para Machine Learning y Visió
 ```
 19/06/2024 - By Alexi Dg
 ```
+<img src="https://rust-lang.org/static/images/ferris.gif" alt="rust logo gif" />
