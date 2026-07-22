@@ -1,6 +1,7 @@
-use std::io;
+//use std::io;
 
 // This is a main file and entry point.
+/*#[warn(unused)]
 fn main() {
     println!("\n \t Hello fellow Rustaceans! \n");
     println!("{}", sum(5, 9));
@@ -39,21 +40,21 @@ fn main() {
 
     println!("Hello, {}!", name.trim());
 
-}
+}*/
 
 
-fn sum(a: i32, b: i32) -> i32{
+pub fn sum(a: i32, b: i32) -> i32{
     a+b
 }
 
-fn res(a: i32, b: i32) -> i32{
+pub fn res(a: i32, b: i32) -> i32{
     a-b
 }
 
-fn mult(a: i32, b: i32) -> i32{
+pub fn mult(a: i32, b: i32) -> i32{
     a*b
 }
 
-fn div(a: i32, b: i32) -> i32{
+pub fn div(a: i32, b: i32) -> i32{
     a/b
 }
